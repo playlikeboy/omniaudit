@@ -1,48 +1,48 @@
 {
-  "name": "Adobe OmniAudit GEO",
+  "name": "OmniAudit-GEO — Brand AI-Readiness Platform",
   "short_name": "OmniAudit",
-  "description": "Autonomous Brand AI-Readiness & Search Engine Optimization Platform",
+  "description": "Autonomous Brand AI-Readiness & Search Engine Optimization Platform conforming to agentskills.io and Model Context Protocol (MCP).",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#141414",
-  "theme_color": "#141414",
+  "background_color": "#0b0f19",
+  "theme_color": "#0b0f19",
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "/favicon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
     },
     {
       "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
       "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ],
   "categories": ["business", "developer", "productivity", "utilities"],
   "shortcuts": [
     {
       "name": "Audit Studio",
-      "url": "/audit",
+      "url": "/",
       "description": "Run autonomous Brand GEO audit"
     },
     {
-      "name": "Skills Marketplace",
-      "url": "/marketplace",
-      "description": "Explore 6 modular audit skills"
+      "name": "Documentation",
+      "url": "/docs",
+      "description": "Explore interactive documentation portal"
     },
     {
-      "name": "16 Golden Benchmarks",
-      "url": "/benchmarks",
-      "description": "View benchmark calibration lab"
+      "name": "REST API Reference",
+      "url": "/api/docs",
+      "description": "OpenAPI Swagger documentation"
     }
   ]
 }
