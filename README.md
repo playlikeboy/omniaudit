@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fomniaudit"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fomniaudit&countColor=%23263759&style=flat" alt="Visitors" /></a>
-  <a href="https://github.com/SH20RAJ/omniaudit/actions/workflows/verify.yml"><img src="https://img.shields.io/github/actions/workflow/status/SH20RAJ/omniaudit/verify.yml?branch=main&label=6-Gate%20Verification&style=flat-square&logo=githubactions&logoColor=white" alt="Verification" /></a>
-  <a href="https://github.com/SH20RAJ/omniaudit/actions/workflows/publish-container.yml"><img src="https://img.shields.io/github/actions/workflow/status/SH20RAJ/omniaudit/publish-container.yml?branch=main&label=GHCR%20Build&style=flat-square&logo=docker&logoColor=white" alt="Container" /></a>
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fplaylikeboy%2Fomniaudit"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fplaylikeboy%2Fomniaudit&countColor=%23263759&style=flat" alt="Visitors" /></a>
+  <a href="https://github.com/playlikeboy/omniaudit/actions/workflows/verify.yml"><img src="https://img.shields.io/github/actions/workflow/status/playlikeboy/omniaudit/verify.yml?branch=main&label=6-Gate%20Verification&style=flat-square&logo=githubactions&logoColor=white" alt="Verification" /></a>
+  <a href="https://github.com/playlikeboy/omniaudit/actions/workflows/publish-container.yml"><img src="https://img.shields.io/github/actions/workflow/status/playlikeboy/omniaudit/publish-container.yml?branch=main&label=GHCR%20Build&style=flat-square&logo=docker&logoColor=white" alt="Container" /></a>
   <a href="https://omniaudit.streamlit.app/"><img src="https://img.shields.io/badge/Live%20App-Streamlit%20Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live Streamlit App" /></a>
   <a href="https://omniaudit-geo.onrender.com/"><img src="https://img.shields.io/badge/API-Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Live Render API" /></a>
   <a href="https://omniaudit-geo.onrender.com/docs"><img src="https://img.shields.io/badge/Docs-Live%20Portal-6366F1?style=flat-square&logo=gitbook&logoColor=white" alt="Documentation Portal" /></a>
@@ -23,7 +23,7 @@
 </p>
 
 > **Adobe University Hackathon 2026 (CRP) — Round 3 Official Team Submission**<br>
-> **Team:** Shaswat Raj ([@sh20raj](https://github.com/sh20raj)) & Prithvi ([@chikolavosaki-sys](https://github.com/chikolavosaki-sys))<br>
+> **Team:** Shaswat Raj ([@sh20raj](https://github.com/playlikeboy)) & Prithvi ([@chikolavosaki-sys](https://github.com/chikolavosaki-sys))<br>
 > **Challenge:** [Unstop - Adobe University Hackathon 2026](https://unstop.com/hackathons/crp-adobe-university-hackathon-2026-adobe-1715333)<br>
 > **⚡ Live Streamlit Web App:** [https://omniaudit.streamlit.app/](https://omniaudit.streamlit.app/)<br>
 > **📖 Interactive Documentation Portal:** [https://omniaudit-geo.onrender.com/docs](https://omniaudit-geo.onrender.com/docs)<br>
@@ -92,22 +92,22 @@ Organized as an `agentskills.io` compliant Agent Skill Marketplace defined by [`
 
 ### Method 1: Instant One-Liner (No Git Required — Recommended)
 ```bash
-curl -fsSL https://raw.githubusercontent.com/SH20RAJ/omniaudit/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/playlikeboy/omniaudit/main/install.sh | bash
 ```
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/SH20RAJ/omniaudit/main/omniaudit_terminal_demo.gif">
-    <img src="https://raw.githubusercontent.com/SH20RAJ/omniaudit/main/omniaudit_terminal_demo.gif" alt="OmniAudit-GEO Interactive Terminal Demonstration" width="100%" />
+  <a href="https://raw.githubusercontent.com/playlikeboy/omniaudit/main/omniaudit_terminal_demo.gif">
+    <img src="https://raw.githubusercontent.com/playlikeboy/omniaudit/main/omniaudit_terminal_demo.gif" alt="OmniAudit-GEO Interactive Terminal Demonstration" width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <em>▶️ <b>Live Terminal Walkthrough:</b> Interactive <code>omni</code> launcher, live brand audit scorecard, head-to-head competitor benchmark, AI remediation prompt clipboard copy, and 16 golden fixtures. (<a href="https://github.com/user-attachments/assets/24977476-78bc-4478-a78d-5088e13b6c26">Watch Video Stream</a> · <a href="https://raw.githubusercontent.com/SH20RAJ/omniaudit/main/omniaudit_terminal_demo.mp4">Download 1080p MP4</a>)</em>
+  <em>▶️ <b>Live Terminal Walkthrough:</b> Interactive <code>omni</code> launcher, live brand audit scorecard, head-to-head competitor benchmark, AI remediation prompt clipboard copy, and 16 golden fixtures. (<a href="https://github.com/user-attachments/assets/24977476-78bc-4478-a78d-5088e13b6c26">Watch Video Stream</a> · <a href="https://raw.githubusercontent.com/playlikeboy/omniaudit/main/omniaudit_terminal_demo.mp4">Download 1080p MP4</a>)</em>
 </p>
 
 ### Method 2: Cloned Repository (Editable Python Package)
 ```bash
-git clone https://github.com/SH20RAJ/omniaudit.git
+git clone https://github.com/playlikeboy/omniaudit.git
 cd omniaudit
 pip install -e .
 ```
@@ -119,7 +119,7 @@ python3 cli.py https://adobe.com
 
 ### Method 4: Docker Container
 ```bash
-docker run --rm -p 8000:8000 ghcr.io/sh20raj/omniaudit-geo:stable
+docker run --rm -p 8000:8000 ghcr.io/playlikeboy/omniaudit-geo:stable
 ```
 
 ---
@@ -228,7 +228,7 @@ Every documentation topic has exactly one canonical home under [`docs/`](./docs/
 
 ## 👥 Team & Engineering Ownership
 
-* **Shaswat Raj ([@sh20raj](https://github.com/sh20raj)):** Product direction and challenge framing; marketplace and MCP foundation; initial skill decomposition, architecture, documentation, Cloudflare/Next.js showcase, GitHub Pages presentation, and deployment/distribution work.
+* **Shaswat Raj ([@sh20raj](https://github.com/playlikeboy)):** Product direction and challenge framing; marketplace and MCP foundation; initial skill decomposition, architecture, documentation, Cloudflare/Next.js showcase, GitHub Pages presentation, and deployment/distribution work.
 * **Prithvi ([@chikolavosaki-sys](https://github.com/chikolavosaki-sys)):** Audit-engine hardening and generalization; SSRF-safe bounded fetching, robots and hydration analysis, structured data, AEO, freshness/trust, engagement detectors, adapter architecture, regression benchmarks, security validation, and implementation-vs-documentation quality work.
 
 Together, the team maintains the final provider-neutral, read-only marketplace submission.

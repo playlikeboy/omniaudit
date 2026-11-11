@@ -1378,7 +1378,7 @@ def create_gradio_app() -> Any:
                             <a href="/docs" target="_blank" style="text-decoration: none; font-size: 12px; font-weight: 600; color: #38bdf8; background: rgba(56,189,248,0.1); border: 1px solid rgba(56,189,248,0.25); padding: 4px 10px; border-radius: 6px;">
                                 📖 Docs ↗
                             </a>
-                            <a href="https://github.com/SH20RAJ/omniaudit" target="_blank" style="text-decoration: none; font-size: 12px; font-weight: 600; color: #cbd5e1; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); padding: 4px 10px; border-radius: 6px;">
+                            <a href="https://github.com/playlikeboy/omniaudit" target="_blank" style="text-decoration: none; font-size: 12px; font-weight: 600; color: #cbd5e1; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); padding: 4px 10px; border-radius: 6px;">
                                 ★ GitHub ↗
                             </a>
                         </div>
@@ -1978,8 +1978,8 @@ def create_gradio_app() -> Any:
         gr.HTML("""
         <div style="text-align: center; color: #64748b; font-size: 0.8rem; margin-top: 30px; padding-top: 15px; border-top: 1px solid rgba(255,255,255,0.06);">
             <div style="margin-bottom: 8px;">
-                <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fomniaudit" target="_blank" style="display: inline-block;">
-                    <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fomniaudit&countColor=%23263759&style=flat" alt="Visitors" />
+                <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fplaylikeboy%2Fomniaudit" target="_blank" style="display: inline-block;">
+                    <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fplaylikeboy%2Fomniaudit&countColor=%23263759&style=flat" alt="Visitors" />
                 </a>
             </div>
             OmniAudit-GEO · Apache 2.0 License · Built by Shaswat Raj (@sh20raj) & Prithvi (@chikolavosaki-sys) · Adobe University Hackathon 2026

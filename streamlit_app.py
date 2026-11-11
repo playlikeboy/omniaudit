@@ -452,7 +452,7 @@ with st.sidebar:
             <a href="https://omniaudit.streamlit.app/" target="_blank" style="color: #ff4b4b; text-decoration: none; font-weight: 600;">⚡ Streamlit Cloud (Live App) ↗</a>
             <a href="https://omniaudit-geo.onrender.com/docs" target="_blank" style="color: #38bdf8; text-decoration: none;">📖 Documentation Portal ↗</a>
             <a href="https://omniaudit-geo.onrender.com/api/docs" target="_blank" style="color: #38bdf8; text-decoration: none;">🔌 OpenAPI REST Swagger ↗</a>
-            <a href="https://github.com/SH20RAJ/omniaudit" target="_blank" style="color: #94a3b8; text-decoration: none;">⭐ GitHub Repository ↗</a>
+            <a href="https://github.com/playlikeboy/omniaudit" target="_blank" style="color: #94a3b8; text-decoration: none;">⭐ GitHub Repository ↗</a>
         </div>
         """,
         unsafe_allow_html=True,
@@ -1373,7 +1373,7 @@ elif nav_selection == "📖 Documentation Portal":
             words_count = len(content.split())
             read_time_min = max(1, round(words_count / 220))
             rel_path = doc_obj.get("rel_path", "")
-            gh_url = f"https://github.com/SH20RAJ/omniaudit/blob/main/{rel_path}"
+            gh_url = f"https://github.com/playlikeboy/omniaudit/blob/main/{rel_path}"
 
             st.markdown(
                 f"""

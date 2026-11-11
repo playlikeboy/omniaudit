@@ -131,7 +131,7 @@ SITES_100 = [
     ("https://rust-lang.org", "Developer Docs"),
     ("https://go.dev", "Developer Docs"),
     # 10. Free Hosting, Blogs & Mentioned Sites (10)
-    ("https://sh20raj.github.io", "Free / Niche"),
+    ("https://playlikeboy.github.io", "Free / Niche"),
     ("https://pages.github.com", "Free / Niche"),
     ("https://googleblog.blogspot.com", "Free / Niche"),
     ("https://wordpress.org", "Free / Niche"),

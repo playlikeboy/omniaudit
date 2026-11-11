@@ -2,7 +2,7 @@
 
 > **Adobe University Hackathon 2026 (CRP) — Round 3 Official Technical Defense**  
 > **Project:** OmniAudit-GEO (`brand-ai-readiness-audit`)  
-> **Team:** Shaswat Raj ([@sh20raj](https://github.com/sh20raj)) & Prithvi ([@chikolavosaki-sys](https://github.com/chikolavosaki-sys))  
+> **Team:** Shaswat Raj ([@sh20raj](https://github.com/playlikeboy)) & Prithvi ([@chikolavosaki-sys](https://github.com/chikolavosaki-sys))  
 > **Live Platform:** [https://omniaudit-geo.onrender.com/](https://omniaudit-geo.onrender.com/)  
 > **Documentation Portal:** [https://omniaudit-geo.onrender.com/docs](https://omniaudit-geo.onrender.com/docs)  
 > **Submission Archive:** `omniaudit-geo-marketplace.zip` (0.08 MB)

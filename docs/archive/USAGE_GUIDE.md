@@ -85,7 +85,7 @@ python3 cli.py --url https://example.com
 
 ### Option D: Docker / OCI Container
 ```bash
-docker run --rm -p 8000:8000 ghcr.io/sh20raj/omniaudit-geo:stable
+docker run --rm -p 8000:8000 ghcr.io/playlikeboy/omniaudit-geo:stable
 ```
 
 ---
@@ -316,7 +316,7 @@ docker compose logs -f
 The repository is wired with a production release pipeline (`.github/workflows/publish-container.yml`):
 1. **Pre-flight Gate:** Runs all 6 verification gates; failure aborts container building.
 2. **Container Smoke Test:** Builds container, boots local test daemon, validates `/api/health`, `/api/audit`, and MCP `initialize`.
-3. **GHCR Publishing:** Publishes immutable OCI image to `ghcr.io/sh20raj/omniaudit-geo:latest` and `:vYYYY.MM.DD`.
+3. **GHCR Publishing:** Publishes immutable OCI image to `ghcr.io/playlikeboy/omniaudit-geo:latest` and `:vYYYY.MM.DD`.
 4. **Render Auto-Deploy:** Triggers Render deploy webhook and polls `https://omniaudit-geo.onrender.com/api/health` until the deployment is verified live.
 
 ---
@@ -369,4 +369,4 @@ Total Test Suite: **167 tests passed, 0 failed**.
 
 ---
 
-*Authored by Shaswat Raj ([@sh20raj](https://github.com/sh20raj)) & Prithvi ([@chikolavosaki-sys](https://github.com/chikolavosaki-sys)) for Adobe University Hackathon 2026.*
+*Authored by Shaswat Raj ([@sh20raj](https://github.com/playlikeboy)) & Prithvi ([@chikolavosaki-sys](https://github.com/chikolavosaki-sys)) for Adobe University Hackathon 2026.*

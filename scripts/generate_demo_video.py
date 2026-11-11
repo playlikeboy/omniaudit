@@ -399,7 +399,7 @@ def main():
         [("│                                                                        │", CYAN)],
         [("├────────────────────────────────────────────────────────────────────────┤", CYAN)],
         [("│                                                                        │", CYAN)],
-        [("│  ⭐ GitHub  : https://github.com/SH20RAJ/omniaudit                     │", CYAN)],
+        [("│  ⭐ GitHub  : https://github.com/playlikeboy/omniaudit                     │", CYAN)],
         [("│  🌐 Web App : https://omniaudit-geo.onrender.com                       │", CYAN)],
         [("│                                                                        │", CYAN)],
         [("╰────────────────────────────────────────────────────────────────────────╯", CYAN)],

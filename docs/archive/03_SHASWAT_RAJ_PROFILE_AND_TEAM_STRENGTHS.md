@@ -7,8 +7,8 @@ This document preserves Shaswat's profile and records the complementary engineer
 ### Shaswat Raj (@sh20raj)
 
 * **Name:** Shaswat Raj
-* **GitHub:** [github.com/sh20raj](https://github.com/sh20raj)
-* **Portfolio:** [sh20raj.github.io](https://sh20raj.github.io/)
+* **GitHub:** [github.com/playlikeboy](https://github.com/playlikeboy)
+* **Portfolio:** [playlikeboy.github.io](https://playlikeboy.github.io/)
 * **LinkedIn:** [linkedin.com/in/sh20raj](https://www.linkedin.com/in/sh20raj/)
 * **Institution:** Birla Institute of Technology (BIT) Mesra — B.Tech Computer Science & Engineering
 * **Key Honors & Leadership:**

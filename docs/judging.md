@@ -22,7 +22,7 @@ OmniAudit-GEO is an **Agent Skill Marketplace** conforming to the `agentskills.i
 
 ## 👥 Engineering Team Ownership
 
-* **Shaswat Raj ([@sh20raj](https://github.com/sh20raj)):** Product direction and challenge framing; marketplace and MCP foundation; initial skill decomposition, architecture, documentation, Cloudflare/Next.js showcase, GitHub Pages presentation, and deployment/distribution work.
+* **Shaswat Raj ([@sh20raj](https://github.com/playlikeboy)):** Product direction and challenge framing; marketplace and MCP foundation; initial skill decomposition, architecture, documentation, Cloudflare/Next.js showcase, GitHub Pages presentation, and deployment/distribution work.
 * **Prithvi ([@chikolavosaki-sys](https://github.com/chikolavosaki-sys)):** Audit-engine hardening and generalization; SSRF-safe bounded fetching, robots and hydration analysis, structured data, AEO, freshness/trust, engagement detectors, adapter architecture, regression benchmarks, security validation, and implementation-vs-documentation quality work.
 
 Together, the team maintains the final provider-neutral, read-only marketplace submission.

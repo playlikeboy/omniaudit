@@ -4,7 +4,7 @@ services:
   - name: web
     image:
       registry_type: GHCR
-      registry: sh20raj
+      registry: playlikeboy
       repository: omniaudit-geo
       tag: stable
       digest: sha256:86bfe894daed4a673d6ececdedd519087d626a31a9948c69929a9ef092b54c11

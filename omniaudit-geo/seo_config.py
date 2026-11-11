@@ -32,8 +32,8 @@ SCHEMA_JSON_LD = """{
         {
           "@type": "Person",
           "name": "Shaswat Raj",
-          "url": "https://github.com/sh20raj",
-          "sameAs": ["https://github.com/sh20raj", "https://twitter.com/sh20raj"]
+          "url": "https://github.com/playlikeboy",
+          "sameAs": ["https://github.com/playlikeboy", "https://twitter.com/sh20raj"]
         },
         {
           "@type": "Person",
@@ -50,7 +50,7 @@ SCHEMA_JSON_LD = """{
       "url": "https://omniaudit-geo.onrender.com/",
       "logo": "https://omniaudit-geo.onrender.com/brand/logo.png",
       "sameAs": [
-        "https://github.com/SH20RAJ/omniaudit"
+        "https://github.com/playlikeboy/omniaudit"
       ]
     },
     {

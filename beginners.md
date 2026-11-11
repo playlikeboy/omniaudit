@@ -174,7 +174,7 @@ If you have Python 3.10+ installed on your Mac, Linux, or Windows machine:
 
 ```bash
 # Clone the repository
-git clone https://github.com/SH20RAJ/omniaudit.git
+git clone https://github.com/playlikeboy/omniaudit.git
 cd omniaudit
 
 # Run an instant audit on any website

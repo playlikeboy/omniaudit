@@ -12,7 +12,7 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: sh20raj/omniaudit-geo
+  IMAGE_NAME: playlikeboy/omniaudit-geo
 
 jobs:
   verify:

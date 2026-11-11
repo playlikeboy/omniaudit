@@ -3,10 +3,10 @@
 > **Adobe University Hackathon 2026 (CRP) — Round 4 Prototype Showcase (21–27 September 2026)**  
 > **Project:** OmniAudit-GEO (`brand-ai-readiness-audit`)  
 > **Standard:** `agentskills.io` Agent Skill Marketplace Standard & Anthropic Model Context Protocol (MCP)  
-> **Team:** Shaswat Raj ([@sh20raj](https://github.com/sh20raj)) & Prithvi ([@chikolavosaki-sys](https://github.com/chikolavosaki-sys))  
+> **Team:** Shaswat Raj ([@sh20raj](https://github.com/playlikeboy)) & Prithvi ([@chikolavosaki-sys](https://github.com/chikolavosaki-sys))  
 > **Live Production Platform:** [https://omniaudit-geo.onrender.com/](https://omniaudit-geo.onrender.com/)  
 > **Interactive Documentation Portal:** [https://omniaudit-geo.onrender.com/docs](https://omniaudit-geo.onrender.com/docs)  
-> **GitHub Repository:** [https://github.com/SH20RAJ/omniaudit](https://github.com/SH20RAJ/omniaudit)  
+> **GitHub Repository:** [https://github.com/playlikeboy/omniaudit](https://github.com/playlikeboy/omniaudit)  
 > **Verified Package:** `omniaudit-geo-marketplace.zip` (0.09 MB / 69 verified files)
 
 ---

@@ -396,7 +396,7 @@ def generate_markdown_report(data):
     md = f"""# 🧪 OmniAudit-GEO — Comprehensive Automated Test & Verification Report
 
 **Adobe University Hackathon 2026 (Campus Recruitment Program) — Round 3**\\n
-**Repository:** `https://github.com/SH20RAJ/omniaudit`\\n
+**Repository:** `https://github.com/playlikeboy/omniaudit`\\n
 **Generated At:** `{data["timestamp"]}` | **Git Commit:** `{data["git_commit"]}` (`{data["git_branch"]}`)\\n
 **Platform:** `{data["system"]}` | Python `{data["python_version"]}`
 

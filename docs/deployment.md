@@ -8,7 +8,7 @@ This document details the deployment environments, container specifications, orc
 
 * **Live Demo URL:** [https://omniaudit-geo.onrender.com/](https://omniaudit-geo.onrender.com/)
 * **Platform:** Render Web Service (Standard Web Service, auto-deployed via webhook)
-* **Image Registry:** GitHub Container Registry (`ghcr.io/sh20raj/omniaudit-geo:stable`)
+* **Image Registry:** GitHub Container Registry (`ghcr.io/playlikeboy/omniaudit-geo:stable`)
 * **Health Probe Endpoint:** `https://omniaudit-geo.onrender.com/api/health`
 * **MCP Remote Endpoint:** `https://omniaudit-geo.onrender.com/api/mcp`
 * **API Documentation:** `https://omniaudit-geo.onrender.com/docs`
@@ -71,7 +71,7 @@ docker run -d \
   --name omniaudit-geo \
   -p 8000:8000 \
   -e PORT=8000 \
-  ghcr.io/sh20raj/omniaudit-geo:stable
+  ghcr.io/playlikeboy/omniaudit-geo:stable
 ```
 
 ### 2. Building & Running Locally with Docker
@@ -111,7 +111,7 @@ services:
 - name: web
   image:
     registry_type: GHCR
-    repository: sh20raj/omniaudit-geo
+    repository: playlikeboy/omniaudit-geo
     tag: stable
   http_port: 8000
   instance_count: 1

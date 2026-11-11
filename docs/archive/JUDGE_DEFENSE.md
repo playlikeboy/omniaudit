@@ -1,6 +1,6 @@
 # OmniAudit-GEO — Judge Defense & Technical Architecture Q&A
 **Adobe University Hackathon 2026 (Round 3 Campus Recruitment Program)**  
-**Engineering Team:** Shaswat Raj ([@sh20raj](https://github.com/sh20raj)) & Prithvi ([@chikolavosaki-sys](https://github.com/chikolavosaki-sys))
+**Engineering Team:** Shaswat Raj ([@sh20raj](https://github.com/playlikeboy)) & Prithvi ([@chikolavosaki-sys](https://github.com/chikolavosaki-sys))
 
 ---
 

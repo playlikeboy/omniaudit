@@ -2,7 +2,7 @@
 
 > **The Brand AI-Readiness Marketplace for the Generative Search Era**  
 > **Adobe University Hackathon 2026 — Round 3 Team Submission**
-> **Presenters:** Shaswat Raj ([@sh20raj](https://github.com/sh20raj)) & Prithvi ([@chikolavosaki-sys](https://github.com/chikolavosaki-sys))
+> **Presenters:** Shaswat Raj ([@sh20raj](https://github.com/playlikeboy)) & Prithvi ([@chikolavosaki-sys](https://github.com/chikolavosaki-sys))
 
 > **Ownership:** Shaswat leads the original product, marketplace, showcase, and presentation foundation. Prithvi leads audit-engine hardening, security, generalization, benchmarks, and quality validation.
 

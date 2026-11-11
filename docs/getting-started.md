@@ -24,7 +24,7 @@ OmniAudit-GEO provides four flexible installation paths:
 Run directly from your terminal. This downloads the latest release archive, unpacks the skills and runtime into `~/.local/share/omniaudit-geo`, and links `omni` and `omniaudit` into `~/.local/bin` without requiring `git`:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/SH20RAJ/omniaudit/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/playlikeboy/omniaudit/main/install.sh | bash
 ```
 
 *Note: Ensure `~/.local/bin` is in your `$PATH` (e.g. `export PATH="$HOME/.local/bin:$PATH"`).*
@@ -35,7 +35,7 @@ For developers contributing to the codebase or modifying skills:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/SH20RAJ/omniaudit.git
+git clone https://github.com/playlikeboy/omniaudit.git
 cd omniaudit
 
 # 2. Install editable CLI wrapper in your active Python environment
@@ -60,7 +60,7 @@ python3 cli.py --url https://example.com
 Run the production image published to the GitHub Container Registry:
 
 ```bash
-docker run --rm -p 8000:8000 -e PORT=8000 ghcr.io/sh20raj/omniaudit-geo:stable
+docker run --rm -p 8000:8000 -e PORT=8000 ghcr.io/playlikeboy/omniaudit-geo:stable
 ```
 
 Open your browser at `http://localhost:8000` to interact with the Gradio UI and REST API.

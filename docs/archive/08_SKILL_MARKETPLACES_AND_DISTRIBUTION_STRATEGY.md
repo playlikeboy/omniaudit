@@ -99,5 +99,5 @@ To maximize industry impact, adoption, and win #1 place in Adobe Hackathon Round
 | **Official Hackathon Round 3** | Adobe Submission Portal (Unstop) | `omniaudit-geo-marketplace.zip` (`marketplace.json` + `skills/`) | **Ready (`0.08 MB / ≤ 50 MB`)** |
 | **Web Control Plane & MCP** | Docker / DigitalOcean / Render | `Dockerfile` & `.do/app.yaml` | **Ready (Gradio 6 + FastAPI)** |
 | **Model Context Protocol** | Claude Desktop / Cursor / Antigravity | `skills/audit-orchestrator/scripts/mcp_server.py` | **Ready (JSON-RPC)** |
-| **GHCR Container Registry** | OCI Linux AMD64 Container Image | `.github/workflows/publish-container.yml` | **Published: `ghcr.io/sh20raj/omniaudit-geo`** |
+| **GHCR Container Registry** | OCI Linux AMD64 Container Image | `.github/workflows/publish-container.yml` | **Published: `ghcr.io/playlikeboy/omniaudit-geo`** |
 | **agentskills.io** | Open Agent Ecosystem | `skills/*/SKILL.md` | **Fully Spec-Compliant** |

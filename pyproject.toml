@@ -60,7 +60,7 @@ omni = "cli:main"
 
 [project.urls]
 Homepage = "https://omniaudit-geo.onrender.com/"
-Repository = "https://github.com/SH20RAJ/omniaudit"
+Repository = "https://github.com/playlikeboy/omniaudit"
 Documentation = "https://omniaudit-geo.onrender.com/docs"
 
 [tool.setuptools]

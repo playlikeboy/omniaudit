@@ -371,7 +371,7 @@ def get_doc_by_id(doc_id: str) -> dict[str, Any] | None:
             try:
                 import urllib.request
 
-                raw_url = f"https://raw.githubusercontent.com/SH20RAJ/omniaudit/main/{rel}"
+                raw_url = f"https://raw.githubusercontent.com/playlikeboy/omniaudit/main/{rel}"
                 req = urllib.request.Request(raw_url, headers={"User-Agent": "OmniAudit-GEO-DocsViewer/1.0"})
                 with urllib.request.urlopen(req, timeout=5) as resp:
                     if resp.status == 200:
@@ -923,7 +923,7 @@ def build_documentation_portal_html(initial_doc_id: str = "getting-started") -> 
       <a href="https://omniaudit.streamlit.app/" target="_blank" class="nav-link primary">⚡ Live Streamlit App</a>
       <a href="/api/docs" class="nav-link hide-mobile">📑 OpenAPI Swagger</a>
       <a href="/api/mcp" class="nav-link hide-mobile">🤖 MCP Endpoint</a>
-      <a href="https://github.com/SH20RAJ/omniaudit" target="_blank" class="nav-link">⭐ GitHub</a>
+      <a href="https://github.com/playlikeboy/omniaudit" target="_blank" class="nav-link">⭐ GitHub</a>
     </nav>
   </header>
 

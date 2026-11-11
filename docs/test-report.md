@@ -1,7 +1,7 @@
 # 🧪 OmniAudit-GEO — Comprehensive Automated Test & Verification Report
 
 **Adobe University Hackathon 2026 (Campus Recruitment Program) — Round 3**\n
-**Repository:** `https://github.com/SH20RAJ/omniaudit`\n
+**Repository:** `https://github.com/playlikeboy/omniaudit`\n
 **Generated At:** `2026-09-13 05:30:17 UTC` | **Git Commit:** `1664f74` (`main`)\n
 **Platform:** `Darwin 25.6.0 (arm64)` | Python `3.14.4`
 

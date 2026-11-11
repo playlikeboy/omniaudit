@@ -43,7 +43,7 @@ python3 -m unittest discover -s tests -v
 ### Option B: DigitalOcean Droplet (Docker Compose)
 SSH into your DigitalOcean droplet and run:
 ```bash
-git clone https://github.com/SH20RAJ/omniaudit.git
+git clone https://github.com/playlikeboy/omniaudit.git
 cd omniaudit
 
 # Build and start container in background

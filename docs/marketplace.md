@@ -28,12 +28,12 @@ To avoid confusion between development tools and hackathon deliverables, OmniAud
 │    • Provides: CLI console scripts `omni` and `omniaudit`                                │
 │    • Purpose: Local command-line execution and developer tooling.                        │
 ├──────────────────────────────────────────────────────────────────────────────────────────┤
-│ 3. DOCKER / OCI CONTAINER (`ghcr.io/sh20raj/omniaudit-geo:stable`)                       │
+│ 3. DOCKER / OCI CONTAINER (`ghcr.io/playlikeboy/omniaudit-geo:stable`)                       │
 │    • Built from: `Dockerfile` (Python 3.12-slim, non-root user)                          │
 │    • Provides: Containerized FastAPI runtime, Gradio 6 UI, and remote MCP server.        │
 │    • Purpose: Cloud deployment on Render, DigitalOcean App Platform, or Kubernetes.     │
 ├──────────────────────────────────────────────────────────────────────────────────────────┤
-│ 4. SOURCE REPOSITORY (`SH20RAJ/omniaudit`)                                               │
+│ 4. SOURCE REPOSITORY (`playlikeboy/omniaudit`)                                               │
 │    • Contents: Full workspace including tests, CI workflows, benchmarks, docs, assets.  │
 │    • Purpose: Collaborative open-source development and version history.                 │
 └──────────────────────────────────────────────────────────────────────────────────────────┘
